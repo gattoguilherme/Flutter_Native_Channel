@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 import 'package:platform_channel_game/constants/colors.dart';
 import 'package:platform_channel_game/constants/styles.dart';
-
+//blablabla
 import '../models/creator.dart';
 
 class GameWidget extends StatefulWidget {
